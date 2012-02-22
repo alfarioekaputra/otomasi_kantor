@@ -1,0 +1,98 @@
+10
+
+dir
+0
+http://10.1.4.54/svn/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/unit
+http://10.1.4.54/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b50e90b3-aa04-458b-a1a9-f2dca677a19a
+
+task
+dir
+
+
+
+add
+
+form
+dir
+
+
+
+add
+
+sfMixerTest.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+database
+dir
+
+
+
+add
+
+validator
+dir
+
+
+
+add
+
+debug
+dir
+
+
+
+add
+
+sfPropelDatabaseSchemaTest.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+fixtures
+dir
+
+
+
+add
+

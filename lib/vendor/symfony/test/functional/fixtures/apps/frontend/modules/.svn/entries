@@ -1,0 +1,168 @@
+10
+
+dir
+0
+http://10.1.4.54/svn/lib/vendor/symfony/test/functional/fixtures/apps/frontend/modules
+http://10.1.4.54/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b50e90b3-aa04-458b-a1a9-f2dca677a19a
+
+browser
+dir
+
+
+
+add
+
+renderText
+dir
+
+
+
+add
+
+filter
+dir
+
+
+
+add
+
+format
+dir
+
+
+
+add
+
+escaping
+dir
+
+
+
+add
+
+configViewHasLayout
+dir
+
+
+
+add
+
+notfound
+dir
+
+
+
+add
+
+exception
+dir
+
+
+
+add
+
+configSecurityIsSecureAction
+dir
+
+
+
+add
+
+configSecurityIsSecure
+dir
+
+
+
+add
+
+auth
+dir
+
+
+
+add
+
+configModuleDisabled
+dir
+
+
+
+add
+
+assetInclusion
+dir
+
+
+
+add
+
+configSettingsMaxForwards
+dir
+
+
+
+add
+
+autoload
+dir
+
+
+
+add
+
+cookie
+dir
+
+
+
+add
+
+view
+dir
+
+
+
+add
+
+presentation
+dir
+
+
+
+add
+
+sfConfigPlugin
+dir
+
+
+
+add
+
+configFiltersSimpleFilter
+dir
+
+
+
+add
+

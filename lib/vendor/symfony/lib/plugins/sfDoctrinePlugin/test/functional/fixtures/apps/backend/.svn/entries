@@ -1,0 +1,63 @@
+10
+
+dir
+0
+http://10.1.4.54/svn/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/backend
+http://10.1.4.54/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b50e90b3-aa04-458b-a1a9-f2dca677a19a
+
+i18n
+dir
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+lib
+dir
+
+
+
+add
+
+modules
+dir
+
+
+
+add
+
+templates
+dir
+
+
+
+add
+

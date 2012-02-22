@@ -1,0 +1,56 @@
+10
+
+dir
+0
+http://10.1.4.54/svn/lib/vendor/symfony/test/unit/config/fixtures
+http://10.1.4.54/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b50e90b3-aa04-458b-a1a9-f2dca677a19a
+
+sfFilterConfigHandler
+dir
+
+
+
+add
+
+sfGeneratorConfigHandler
+dir
+
+
+
+add
+
+sfSimpleYamlConfigHandler
+dir
+
+
+
+add
+
+sfDefineEnvironmentConfigHandler
+dir
+
+
+
+add
+

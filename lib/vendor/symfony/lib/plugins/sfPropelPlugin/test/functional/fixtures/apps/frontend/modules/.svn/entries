@@ -1,0 +1,70 @@
+10
+
+dir
+0
+http://10.1.4.54/svn/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/modules
+http://10.1.4.54/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b50e90b3-aa04-458b-a1a9-f2dca677a19a
+
+i18n
+dir
+
+
+
+add
+
+unique
+dir
+
+
+
+add
+
+pooling
+dir
+
+
+
+add
+
+attachment
+dir
+
+
+
+add
+
+choice
+dir
+
+
+
+add
+
+pager
+dir
+
+
+
+add
+

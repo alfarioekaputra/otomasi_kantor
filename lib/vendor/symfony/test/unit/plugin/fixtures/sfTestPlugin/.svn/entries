@@ -1,0 +1,63 @@
+10
+
+dir
+0
+http://10.1.4.54/svn/lib/vendor/symfony/test/unit/plugin/fixtures/sfTestPlugin
+http://10.1.4.54/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b50e90b3-aa04-458b-a1a9-f2dca677a19a
+
+sfTestPlugin-1.0.0
+dir
+
+
+
+add
+
+sfTestPlugin-1.0.3
+dir
+
+
+
+add
+
+sfTestPlugin-1.1.3
+dir
+
+
+
+add
+
+sfTestPlugin-1.0.4
+dir
+
+
+
+add
+
+sfTestPlugin-1.1.4
+dir
+
+
+
+add
+
