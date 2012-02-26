@@ -5,6 +5,7 @@ all:
   doctrine:
     class: sfDoctrineDatabase
     param:
-      dsn:      mysql:host=localhost;dbname=otomasi_kantor
-      username: root
-      password: 
+      dsn:      oracle://otrocana:otrocana12345@10.1.4.54/(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.1.4.54)(PORT=1521)))(CONNECT_DATA=(SID=SIMKARI)))
+      #dsn:      mysql:host=localhost;dbname=otomasi_kantor
+      #username: root
+      #password: 
